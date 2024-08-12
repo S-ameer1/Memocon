@@ -21,5 +21,5 @@ Technologies Used
 <br>
 ->React JS: For building a dynamic and responsive user interface.
 <br>
--.Node JS: To handle server-side operations.
+->Node JS: To handle server-side operations.
 
